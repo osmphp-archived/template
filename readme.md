@@ -32,5 +32,5 @@ Install them if necessary.
 
 ## License
 
-The `osmphp/framework` package is open-sourced software licensed under the [GPL v3](LICENSE) license.
+This project is open-sourced software licensed under the [GPL v3](LICENSE) license.
 
