@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-use My\Samples\App;
+use My\App;
 use Osm\Runtime\Apps;
 
 require 'vendor/autoload.php';
