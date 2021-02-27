@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace My\FirstModule;
 
-use Osm\Core\Module as BaseModule;
+use Osm\Core\BaseModule;
 
 class Module extends BaseModule
 {
